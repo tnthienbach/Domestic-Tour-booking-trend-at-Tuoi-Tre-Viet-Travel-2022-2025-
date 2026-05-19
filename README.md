@@ -9,11 +9,11 @@
 
  I. Background
 
-Tuổi Trẻ Việt Travel was established in 2011 in Da Nang City. They provide domestics tour một công ty cung cấp dịch vụ tour du lịch đi các điểm đến du lịch tại Việt Nam. Ở thời điểm thành lập, công ty cung cấp các tour du lịch đi Hội An, Đà Nẵng và Huế. Bắt đầu từ năm 2022, công ty mở rộng cung cấp các tour du lịch đến các địa điểm khác trong nước bao gồm Phú Quốc, Tp Hồ Chí MInh, Nha Trang, Đà Lạt, Hà Nội, Hạ Long, Sapa.
+Founded in 2011 in Da Nang City, Tuổi Trẻ Việt Travel specialized in providing domestic tours to tourist destinations across Viet Nam. In its inception, the company provide tour to destinations such as Hoi An, Da Nang City, and Hue. Since 2022, the company expanded its operations to include tours to destinations such as Phu Quoc, Ho Chi Minh City, Nha Trang, Da Lat, Ha Noi, Ha Long, and Sapa.
 
-Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel, nhằm xác định các giai đoạn cao điểm, sản phẩm du lịch chính và phân khúc khách hàng mục tiêu của công ty. Trên cơ sở này, báo cáo sẽ đề xuất các giải pháp chiến lược nhằm nâng cao chất lượng bán hàng, sản phẩm và dịch vụ, đồng thời cải thiện cơ sở dữ liệu.
+This report focus on analyzing trends regarding domestic tour services at Tuoi Tre Viet Travel, including peak periods, tourism product và customer segments. Based on the findings, the report wil provide suggestions to improve the quality of sales, product and service experience.
 
- II. Tóm tắt kết quả tìm kiếm
+ II. Summary of findings
 
  * Doanh thu tăng chậm trong năm 2022 và 2023. Sau đó tăng mạnh vào năm 2024 và 2025.
  
@@ -23,9 +23,9 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
  
  * Nhóm khách du lịch chủ yếu là những người đã có gia đình, đang đi làm, hoặc đang là học sinh sinh viên và thường đi một mình hoặc hai người.
  
- III. Phân tích dữ liệu
+ III. Data Exploration 
 
- 1.Xu hướng đặt tour du lịch
+  1. Tour-booking trends
 
 <div align="center">
 <h1><img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/768816eb-38e0-4367-9fba-022f3a42de3b" /><h1>
@@ -51,7 +51,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
    
  * Nhiều dư địa phát triển cho tour City Break và ăn uống: Ở chiều ngược lại, các sản phẩm du lịch City Break (kỳ nghỉ ngắn trong ngày tại một thành phố) và du lịch ăn uống chưa nhận được sự quan tâm của khách hàng tại Tuổi Trẻ Việt Travel, điều này cho thấy cản sảm phẩm trên vẫn còn nhiều dư địa phát triển.
   
- 2. Doanh thu
+ 2. Revenue
 
 <div align="center">
 <h1><img width="488" height="198" alt="Image" src="https://github.com/user-attachments/assets/03683d66-918b-4ec0-b8a3-9a040e35e809" /><h1>
@@ -79,7 +79,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 * **Địa điểm văn hóa thu hút khách du lịch**: Bên cạnh các tour du lịch đến các địa điểm giáp biển, các tour đi các địa điểm văn hóa như **Tp Hồ Chí Minh** (2.3 tỷ VND), **Hội An** (2.3 tỷ VND) và **Đà Lạt** (2.1 Tỷ VND) cũng đóng góp doanh thu trên 2 tỷ VND cho công ty.
 
  
- 3. Nhóm khách hàng chính
+ 3. Target customers
 
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/002828d5-11f3-4a8b-91f6-bb1cf101e113"/>
@@ -101,7 +101,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
   
 * **Nhóm khách 3-5 người đóng góp doanh thu ổn định**: Tuy không ko ghi nhận lượng đặt tour lớn như hai nhóm đầu, nhưng nhóm đi từ 3-5 người đóng góp doanh thu lớn cho công ty. Bên cạnh đó, doanh thu trung bình trên mỗi lượt đặt tour của nhóm cao hơn nhiều so với hai nhóm còn lại. Tương tự như nhóm đi 2 người, nhóm 3-5 người nhóm có nhu cầu chi tiêu cao cho các sản phẩm liên quan đến du lịch.
    
- 4.  Trải nghiệm dịch vụ
+ 4.  Service experience
 
 <div align="center">
 <h1><img width="488" height="225" alt="Image" src="https://github.com/user-attachments/assets/43e7d34a-9981-4dbe-bfb0-9dbc96b6fa4c" /><h1>
@@ -129,7 +129,7 @@ Báo cáo này tập trung phân tích xu hướng dịch vụ lữ hành tại 
 * **Tỉ lệ khách hàng quay trở lại ở mức cao**: 66.12% khách hàng lựa chọn trở lại sử dụng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel.
 
 
- IV. Đề xuất giải pháp
+ IV. Solutions
 
 Sau đây là những đề xuất giải pháp nhằm nâng cao chất lượng bán hàng, sản phẩm và dịch vụ, đồng thời cải thiện cơ sở dữ liệu.
 
