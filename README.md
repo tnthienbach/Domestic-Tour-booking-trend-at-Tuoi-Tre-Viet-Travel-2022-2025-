@@ -30,7 +30,7 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
   1. Tour-booking trends
 
 <div align="center">
-<h1><img width="340" height="164" alt="Image" src="https://github.com/user-attachments/assets/157b0e88-c684-45d6-86fc-775e5fb45830" /><h1>
+<h1><img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/157b0e88-c684-45d6-86fc-775e5fb45830" /><h1>
 </div>
 
  * **Steady growth at the beginning**: Tuoi Tre Viet Travel recorded a modest increase in the number of tours, rising from 834 in 2022 to 860 in 2023. This period marked the initial phase of the company's tour expansion, coinciding with the recovery of Vietnam's tourism industry following the impacts of the COVID-19 pandemic.
@@ -38,14 +38,14 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
  * **Increase rapidly in the following years**: The number of booked tours subsequently surged in 2024, reaching 1,599 tours. Although tour bookings in 2025 declined compared to the previous year (to 1,125 tours), the figure remained significantly higher than those of 2022 and 2023. This growth demonstrates the effectiveness of the company's strategic pivot toward travel products that better align with post-pandemic consumer demands.
 
 <div align="center">
-<h1><img width="311" height="143" alt="Image" src="https://github.com/user-attachments/assets/c70845ba-550b-44a1-b442-1d48843dbc49" /><h1>
+<h1><img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/c70845ba-550b-44a1-b442-1d48843dbc49" /><h1>
 </div>
   
  * **Demand rise during holidays and summer months**: Travel demands at Tuoi Tre Viet Travel rise during public holidays (April 30, May 1, September 2, New Year's Day) and the summer months (May to August).
 
 <div align="center">
-<h1><img width="258" height="131" alt="Image" src="https://github.com/user-attachments/assets/937acfb5-ad26-4dea-ba1b-27a369cced73" />
-<img width="269" height="136" alt="Image" src="https://github.com/user-attachments/assets/6ed7c744-1de4-4ed0-afa7-ecce60b16506" /><h1>
+<h1><img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/937acfb5-ad26-4dea-ba1b-27a369cced73" />
+<img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/6ed7c744-1de4-4ed0-afa7-ecce60b16506" /><h1>
 </div>
   
   
@@ -56,14 +56,14 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
  2. Revenue
 
 <div align="center">
-<h1><img width="314" height="143" alt="Image" src="https://github.com/user-attachments/assets/03afaab7-4ef2-442d-8780-b41639264710" /><h1>
+<h1><img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/03afaab7-4ef2-442d-8780-b41639264710" /><h1>
 </div>
 
 * **Slight increase at the beginning but rise the following years**: Tuoi Tre Viet Travel’s revenue recorded a modest increase from 4.7 billion VND in 2022 to 4.9 billion VND in 2023, before surging to 9 billion VND in 2024. However, in 2025, revenue experienced a decline, dropping to 6 billion VND.
   
 <div align="center">
-<h1><img width="265" height="137" alt="Image" src="https://github.com/user-attachments/assets/79a91b74-0e5c-4131-aac5-5544ba9be2b9"/>
-  <img width="248" height="130" alt="Image" src="https://github.com/user-attachments/assets/4f7b7747-433f-48ec-bf5e-9f97f648e2dd" /><h1>
+<h1><img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/79a91b74-0e5c-4131-aac5-5544ba9be2b9"/>
+  <img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/4f7b7747-433f-48ec-bf5e-9f97f648e2dd" /><h1>
 </div>
 
 * **Beach tours with the highest in total revenue**: Beach tours contributes 7.4 Billion VND in revenue for Tuoi Trẻ Viet Travel.
@@ -72,7 +72,7 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
   
 
 <div align="center">
-<h1><img width="249" height="152" alt="Image" src="https://github.com/user-attachments/assets/ced804bd-53bb-4969-b689-cc5937bbfc6c" /><h1>
+<h1><img width="380" height="210" alt="Image" src="https://github.com/user-attachments/assets/ced804bd-53bb-4969-b689-cc5937bbfc6c" /><h1>
 </div>
 
 * **Coastal destination contribute highest revenue**: Tours to coastal destinations, including Phu Quoc (3.1 billion VND), Da Nang (3 billion VND), Nha Trang (2.8 billion VND), and Ha Long (2.6 billion VND), recorded the highest revenue.
@@ -83,16 +83,17 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
  3. Target customers
 
 <div align="center">
-<h1><img width="256" height="128" alt="Image" src="https://github.com/user-attachments/assets/a3e5b7fa-2edc-479d-b654-56a2abe4f956" /><img width="264" height="133" alt="Image" src="https://github.com/user-attachments/assets/b2790a74-43d1-489e-87c3-9ca4a023ea9b" /><h1>
+<h1><img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/a3e5b7fa-2edc-479d-b654-56a2abe4f956" />
+  <img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/b2790a74-43d1-489e-87c3-9ca4a023ea9b" /><h1>
 </div>
 
 * **Families and Young professionals are the primary customer segments**: Tour bookings from families and young professionals accounted for the highest volume (1283 and 1155 tours, respectively). These two segments also generated the highest revenue, contributing 8.1 billion VND and 7.4 billion VND.
 
   
 <div align="center">
-<h1><img width="254" height="133" alt="Image" src="https://github.com/user-attachments/assets/40c7e27d-3a7b-4982-ab4c-4fe60de69cee" />
-<img width="263" height="133" alt="Image" src="https://github.com/user-attachments/assets/524182d6-986e-4cdf-841a-01e29313c5c4" />
-<img width="250" height="131" alt="Image" src="https://github.com/user-attachments/assets/3abdaf2b-ba0b-487d-80cb-16af14161d63" />
+<h1><img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/40c7e27d-3a7b-4982-ab4c-4fe60de69cee" />
+<img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/524182d6-986e-4cdf-841a-01e29313c5c4" />
+<img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/3abdaf2b-ba0b-487d-80cb-16af14161d63" />
 </div> 
 
 * **Solo travelers lead in quantity**: Solo travelers represent the largest booking segment at Tuoi Tre Viet Travel. However, final revenue generated from this group is lower compared to the original revenue, and their average revenue per booking is also on the lower end. While this segment has a high demand for travel, they tend to be budget-friendly and frequently look for promotional deals to secure tours at the most reasonable prices.
@@ -104,25 +105,25 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
  4.  Service experience
 
 <div align="center">
-<h1><img width="488" height="225" alt="Image" src="https://github.com/user-attachments/assets/43e7d34a-9981-4dbe-bfb0-9dbc96b6fa4c" /><h1>
+<h1><img width="380" height="190" alt="Image" src="https://github.com/user-attachments/assets/adc3cb3c-977a-4d22-b4dc-a55f47ab1408" /><h1>
 </div>
 
 * **Prefer booking tours on website**: 48.1% of customers book tours on Tuoi Tre Viet Travel website, the highest among all channels
 
 <div align="center">
-<h1><img width="488" height="225" alt="Image" src="https://github.com/user-attachments/assets/a2a3f060-8e57-4526-a1ab-6818724619c6" /><h1>
+<h1><img width="380" height="190" alt="Image" src="https://github.com/user-attachments/assets/cb52b1ee-71ec-4713-b174-e63799dc6ef4" /><h1>
 </div>
 
 * **Customers prefer credit card payment method**: Card payments account for 53.9% of total transactions. In addition to cards, customers also pay via bank transfer and cash, albeit at lower rates (19.7% and 15.1%, respectively)
 
 <div align="center">
-<h1><img width="470" height="240" alt="Image" src="https://github.com/user-attachments/assets/63d1d7ce-dbbd-449c-92b9-679b1f154830" /><h1>
+<h1><img width="380" height="190" alt="Image" src="https://github.com/user-attachments/assets/e1800b54-8d07-4857-839c-bbd4d284c0dd" /><h1>
 </div>
 
 * **High level of satisfactions**: Ratings of 4 stars and above account for 72.01%. This indicates that the customer are satisfied with service experience at Tuoi Tre Viet Travel.
 
 <div align="center">
-<h1><img width="488" height="150" alt="Image" src="https://github.com/user-attachments/assets/0e36bd6b-cbb5-4c55-a884-fa16b15deccb" /><h1>
+<h1><img width="380" height="150" alt="Image" src="https://github.com/user-attachments/assets/82031efe-3a94-4fa1-b423-ce953fe3e740" /><h1>
 </div>
 
  
