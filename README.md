@@ -29,7 +29,7 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
   1. Tour-booking trends
 
 <div align="center">
-<h1><img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/768816eb-38e0-4367-9fba-022f3a42de3b" /><h1>
+<h1><img width="488" height="180" alt="Image" src="https://github.com/user-attachments/assets/157b0e88-c684-45d6-86fc-775e5fb45830" /><h1>
 </div>
 
  * **Steady growth at the beginning**: Tuoi Tre Viet Travel recorded a modest increase in the number of tours, rising from 834 in 2022 to 860 in 2023. This period marked the initial phase of the company's tour expansion, coinciding with the recovery of Vietnam's tourism industry following the impacts of the COVID-19 pandemic.
@@ -37,7 +37,7 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
  * **Increase rapidly in the following years**: The number of booked tours subsequently surged in 2024, reaching 1,599 tours. Although tour bookings in 2025 declined compared to the previous year (to 1,125 tours), the figure remained significantly higher than those of 2022 and 2023. This growth demonstrates the effectiveness of the company's strategic pivot toward travel products that better align with post-pandemic consumer demands.
 
 <div align="center">
-<h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
+<h1> <img width="329" height="154" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
 </div>
   
  * **Demand rise during holidays and summer months**: Travel demands at Tuoi Tre Viet Travel rise during public holidays (April 30, May 1, September 2, New Year's Day) and the summer months (May to August).
