@@ -96,11 +96,11 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/6e978fa7-ad40-4f43-bba6-1714a52b66b6"/><h1>
 </div> 
 
-* **Nhóm đi 1 người ghi nhận số lượng lớn nhất**: Nhóm đi một người là nhóm ghi nhận lượng đặt tour lớn nhất tại Tuổi Trẻ Việt Travel, tuy vậy doanh thu thu được từ nhóm này thấp hơn so với doanh thu gốc, bên cạnh đó doanh thu trung bình trên một đợt đặt tour của họ cũng ở mức thấp. Nhóm này có nhu cầu du lịch cao nhưng có xu hướng tiêu dùng tiết kiệm và hay săn các chương trình khuyễn mại nhằm có cho mình các sản phẩm tour với mức giá vưa phải nhất.
-
-* **Nhóm khách 2 người đóng góp doanh thu lớn nhất**: Nhóm đi 2 người là nhóm ghi nhận số lượng đặt tour lớn thứ hai, nhưng là đây là nhóm đóng góp doanh thu lớn nhất cho Tuổi Trẻ Việt Travel. Doanh thu thu được từ nhóm này cao hơn nhiều so với doanh thu gốc, cho thấy đây là nhóm có nhu cầu chi tiêu cao cho các sản phẩm liên quan đến du lịch.
+* **Solo travelers lead in quantity**: Solo travelers represent the largest booking segment at Tuoi Tre Viet Travel. However, final revenue generated from this group is lower compared to the original revenue, and their average revenue per booking is also on the lower end. While this segment has a high demand for travel, they tend to be budget-friendly and frequently look for promotional deals to secure tours at the most reasonable prices.
   
-* **Nhóm khách 3-5 người đóng góp doanh thu ổn định**: Tuy không ko ghi nhận lượng đặt tour lớn như hai nhóm đầu, nhưng nhóm đi từ 3-5 người đóng góp doanh thu lớn cho công ty. Bên cạnh đó, doanh thu trung bình trên mỗi lượt đặt tour của nhóm cao hơn nhiều so với hai nhóm còn lại. Tương tự như nhóm đi 2 người, nhóm 3-5 người nhóm có nhu cầu chi tiêu cao cho các sản phẩm liên quan đến du lịch.
+* **Two-people groups contribute the highest revenue**: The two-people groups represent the second-largest booking segment, yet they are the top revenue contributor for Tuoi Tre Viet Travel. Revenue generated from this group significantly exceeds the original revenue, indicating that this segment has a high propensity to spend on travel-related products and services
+  
+* **3-5 people groups create stable revenues**: Though they do not record have large booking volume compare to the top two segments, groups of 3–5 people contribute significant revenue to the company. Furthermore, their average revenue per booking is substantially higher than that of the other two segments. Similar to the two-person group, this segment demonstrates a high propensity to spend on travel-related products and services.
    
  4.  Service experience
 
@@ -108,45 +108,45 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 <h1><img width="488" height="225" alt="Image" src="https://github.com/user-attachments/assets/43e7d34a-9981-4dbe-bfb0-9dbc96b6fa4c" /><h1>
 </div>
 
-* **Ưa chuộng đặt tour qua website**: Tại Tuổi Trẻ Việt Travel, tỉ lệ tour được đặt thông qua qua website chiếm đến 48.1%.
+* **Prefer booking tours on website**: 48.1% of customers book tours on Tuoi Tre Viet Travel website, the highest among all channels
 
 <div align="center">
 <h1><img width="488" height="225" alt="Image" src="https://github.com/user-attachments/assets/a2a3f060-8e57-4526-a1ab-6818724619c6" /><h1>
 </div>
 
-* **Khách hàng có xu hướng thanh toán qua thẻ**: Khi thanh toán dịch vụ du lịch tại Tuổi Trẻ Việt Travel, khách hàng thanh toán qua thẻ chiếm 53.9% tổng lượt giao dịch. Bên cạnh thẻ, khách hàng còn thanh toán qua chuyển khoản tiền mặt và tiền mặt nhưng với tỉ lệ thấp hơn (19.7% và 15.1%). 
+* **Customers prefer credit card payment method**: Card payments account for 53.9% of total transactions. In addition to cards, customers also pay via bank transfer and cash, albeit at lower rates (19.7% and 15.1%, respectively)
 
 <div align="center">
 <h1><img width="470" height="240" alt="Image" src="https://github.com/user-attachments/assets/63d1d7ce-dbbd-449c-92b9-679b1f154830" /><h1>
 </div>
 
-* **Tỉ lệ hai lòng cao**: Các đánh giá từ 4 điểm trở lên chiếm 72.01%. Điều đó cho thấy tỉ lệ hài lòng của khách hàng về trải nghiệm dịch vụ tại Tuổi Trẻ Việt Travel đang ở mức cao.
+* **High level of satisfactions**: Ratings of 4 stars and above account for 72.01%. This indicates that the customer are satisfied with service experience at Tuoi Tre Viet Travel.
 
 <div align="center">
 <h1><img width="488" height="150" alt="Image" src="https://github.com/user-attachments/assets/0e36bd6b-cbb5-4c55-a884-fa16b15deccb" /><h1>
 </div>
 
  
-* **Tỉ lệ khách hàng quay trở lại ở mức cao**: 66.12% khách hàng lựa chọn trở lại sử dụng dịch vụ lữ hành tại Tuổi Trẻ Việt Travel.
+* **High percentage of returned-cusotmers**: 66.12% of customers said they return to using services at Tuoi Tre Viet Travel.
 
 
  IV. Solutions
 
 Sau đây là những đề xuất giải pháp nhằm nâng cao chất lượng bán hàng, sản phẩm và dịch vụ, đồng thời cải thiện cơ sở dữ liệu.
 
- * Bán hàng
+ * Sales
 
-_ **Khai thác nhóm khách hàng đi 1 người**: Thiết kế các chương trình "Flash Sale" hoặc gói "Ghép đoàn tiết kiệm" tập trung vào nhóm này để tối ưu hóa công suất tour mà không làm giảm giá trị thương hiệu.
+_ **Targeting the solo traveler segment**: Design targeted "Flash Sale" discounts or cost-effective "Group tour" packages tailored for this segment to optimize tour capacity without affecting brand value.
 
- * Sản phẩm
+ * Products
    
-_ **Tạo ra các sản phẩm du lịch văn hóa + ăn uống** : Các món ăn là một phần trong đời sống văn hóa của người dân địa phường nơi khách đặt chân tới. Sản phẩm du lịch ẩm thực tiềm năng lớn để phát triển, nhưng chưa nhận được sự quan tâm của khách du lịch tại Tuổi Trẻ Việt Travel. Trong khi đó, tour du lịch văn hóa là một trong những tour thu hút nhiều khách du lịch nhất của công ty. Vì vậy chúng tôi đề xuất tạo ra các sản phẩm tour văn hóa kết hợp ăn uống nhằm tận dụng sức hút của tour văn hóa và tiềm năng tour ăn uống nhằm giới thiệu khách du lịch trải nghiệm văn hóa địa phương thông qua các món ăn.
+_ **Developing integrated cultural and culinary tourism products**: Local cuisine is an integral part of the cultural life of the communities that tourists visit. While culinary tours holds immense growth potential, it has yet to attract significant interest from Tuoi Tre Viet Travel’s customers. On the other hands, cultural tours stand out as one of the company’s most popular offerings. Therefore, we propose launching hybrid cultural and culinary tour packages. This strategy leverages the popularity of cultural tours and unlocks the potential of culinary tourism, inviting travelers to experience local culture firsthand through its authentic cuisine.
 
-_ **Tối ưu hóa các điểm đến trọng điểm:**: Duy trì chất lượng và làm mới các hoạt động trong tour biển nhằm giữ vững thị doanh thu địa điểm này.
+_ **Optimizing key destinations**: Maintain quality and refresh activities within beach tours to sustain the revenue market share of these destinations.
 
- * Trải nghiệm
+ * Service experience
 
-_ **Chương trình khách hàng thân thiết (Loyalty Program)**: Nhóm khách hàng trở lại sử dụng dịch vụ tại Tuổi Trẻ Việt Travel chiếm 66.12%. Những khách hàng này đóng vai trò quan trọng trong việc đóng góp doanh thu và quảng bá thương hiệu cho Tuổi Trẻ Việt Travel. Vì chúng tôi đề xuất công ty xây dựng hệ thống tích điểm hoặc thẻ thành viên hạng. Ưu tiên cho khách hàng cũ các quyền lợi như: nhận thông báo tour mới sớm nhất, ưu đãi giảm giá riêng tư, hoặc tặng thêm voucher dịch vụ tại điểm đến.
+_ **Customer Loyalty Program**: Returning customers account for 66.12% of Tuoi Tre Viet Travel's clientele. This segment plays a vital role in driving revenue and promoting brand. Therefore, we propose implementing a points-reward system or a tiered membership card. Priority benefits for existing customers should include: early access to new tour announcements, exclusive private discounts, or complimentary destination service vouchers.
 
 
 
