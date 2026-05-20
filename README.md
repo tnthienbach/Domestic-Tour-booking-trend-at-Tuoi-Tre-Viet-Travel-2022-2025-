@@ -15,14 +15,15 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 
  II. Summary of findings
 
- * Doanh thu tăng chậm trong năm 2022 và 2023. Sau đó tăng mạnh vào năm 2024 và 2025.
+ * Revenue growth slowed in 2022 and 2023, followed by a sharp increase in 2024 and 2025.
+
+ * Bookings peak during public holidays (April 30, May 1, September 2, and Tet) and summer travel season (May to August).
+
+ * Beach, family, and cultural ẽploration tours comprise the majority of bookings, with Phu Quoc, Da Nang, and Nha Trang emerging as the top destination choices.
+
+ * The primary customer segments consist of families, working professionals, and students, who typically travel either solo or in pairs.
  
- * Khách chủ yếu đặt tour đi du lịch vào các dịp nghỉ lễ (30/4, 1/5, 2/9, Tết) và đợt cao điểm du lịch hè (Tháng 5 - Tháng 8).
- 
- * Các loại hình tour du lịch biển, gia đình, và khám phá văn hóa chiếm đa số, với những địa điểm du lịch như Phú Quốc, Đà Nẵng và Nha Trang là lựa chọn hàng đầu của khách du lịch.
- 
- * Nhóm khách du lịch chủ yếu là những người đã có gia đình, đang đi làm, hoặc đang là học sinh sinh viên và thường đi một mình hoặc hai người.
- 
+
  III. Data Exploration 
 
   1. Tour-booking trends
@@ -31,15 +32,15 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 <h1><img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/768816eb-38e0-4367-9fba-022f3a42de3b" /><h1>
 </div>
 
- * **Tăng chậm trong giai đoạn đầu**: Tuổi Trẻ Việt Travel ghi nhận lượng tour tăng nhẹ từ 834 tour năm 2022 lên 860 tour trong năm 2023. Đây là giai đoạn đầu công ty mở rộng phạm vi tour, đây đồng thời là quãng thời gian ngành du lịch Việt Nam phục hồi sau ảnh hưởng của đại dịch Covid-19.
+ * **Steady growth at the beginning**: Tuoi Tre Viet Travel recorded a modest increase in the number of tours, rising from 834 in 2022 to 860 in 2023. This period marked the initial phase of the company's tour expansion, coinciding with the recovery of Vietnam's tourism industry following the impacts of the COVID-19 pandemic.
    
- * **Tăng mạnh trong hai năm tiếp theo**: Số lượng tour được đặt sau đó tăng mạnh trong hai năm 2024 (1599 tour). Tuy số lượng đặt tour trong năm 2025 giảm so với năm trước (1125 tour), nhưng vẫn cao hơn so với năm 2022 và 2023. Sự thay đổi định hướng sản phẩm du lịch phù hợp hơn với nhu cầu khách du lịch sau đại dịch của công ty đã cho thấy sự hiểu quả.
+ * **Increase rapidly in the following years**: The number of booked tours subsequently surged in 2024, reaching 1,599 tours. Although tour bookings in 2025 declined compared to the previous year (to 1,125 tours), the figure remained significantly higher than those of 2022 and 2023. This growth demonstrates the effectiveness of the company's strategic pivot toward travel products that better align with post-pandemic consumer demands.
 
 <div align="center">
 <h1> <img width="488" height="199" alt="Image" src="https://github.com/user-attachments/assets/1ef0019a-2150-4497-83f1-b385d2221c61" /> <h1>
 </div>
   
- * **Nhu cầu đi du lịch vào dịp lễ và mùa hè**: Tuổi Trẻ Việt Travel ghi nhận lượng đặt tour đi du lịch vào những **dịp nghỉ lễ lớn** (30/4, 1/5, 2/9, Tết Dương lịch), và **các tháng hè** (Tháng 5 - Tháng 8) cao nhất.
+ * **Demand rise during holidays and summer months**: Travel demands at Tuoi Tre Viet Travel rise during public holidays (April 30, May 1, September 2, New Year's Day) and the summer months (May to August).
 
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/29bec791-8a36-4074-9929-6c9a66c666ab"/>
@@ -47,9 +48,9 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 </div>
   
   
- * **Tour du lịch biển và văn hóa chiếm đa số**: Các sản phảm du lịch biển và du lịch văn hóa của Tuổi Trẻ Việt Travel ghi nhận **lượng đặt tour lớn nhất** với các điểm đến nổi tiếng về biển và văn hóa như Phú Quốc, Nha Trang , Hội An và Đà Nẵng là lựa chọn hàng đầu của khách du lịch
+ * **Beach and Cultural tours take majority**: Tuoi Tre Viet Travel's beach and cultural tourism products recorded **the highest volume of bookings**, with famous coastal and cultural destinations such as Phu Quoc, Nha Trang, Hoi An, and Da Nang emerging as the top choices for tourists.
    
- * Nhiều dư địa phát triển cho tour City Break và ăn uống: Ở chiều ngược lại, các sản phẩm du lịch City Break (kỳ nghỉ ngắn trong ngày tại một thành phố) và du lịch ăn uống chưa nhận được sự quan tâm của khách hàng tại Tuổi Trẻ Việt Travel, điều này cho thấy cản sảm phẩm trên vẫn còn nhiều dư địa phát triển.
+ * **Room for growth for City-Break and Foodie tours**: On the other hand, City Break and Foodie tours have not yet attracted much interest from Tuoi Tre Viet Travel's customers. However, this suggests there is still plenty of untapped potential for these products to develop.
   
  2. Revenue
 
@@ -57,7 +58,7 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 <h1><img width="488" height="198" alt="Image" src="https://github.com/user-attachments/assets/03683d66-918b-4ec0-b8a3-9a040e35e809" /><h1>
 </div>
 
-* **Tăng nhẹ trong giai đoạn đầu nhưng tăng mạnh giai đoạn sau**: Doanh thu của Tuổi Trẻ Việt Travel được ghi nhận tăng nhẹ từ 4.7 tỷ VND năm 2022 lên 4.9 tỷ VND năm 2023 (), nhưng sau đó tăng mạnh trong năm 2024 (9 tỷ VND). Tuy vậy năm 2025 doanh thu đã giảm còn 6 tỷ VND.
+* **Slight increase at the beginning but rise the following years**: Tuoi Tre Viet Travel’s revenue recorded a modest increase from 4.7 billion VND in 2022 to 4.9 billion VND in 2023, before surging to 9 billion VND in 2024. However, in 2025, revenue experienced a decline, dropping to 6 billion VND.
   
 <div align="center">
 <h1><img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/cb13f0e9-bd10-44c2-b3d4-d065584b5cec" />
@@ -65,18 +66,18 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 </div>
 
 
-* **Tổng doanh thu từ tour du lịch biển chiếm đa số**: các sản phẩm du lịch biển mang lại doanh thu cao nhất cho công ty (7.4 tỷ VND)
+* **Beach tours with the highest in total revenue**: Beach tours contributes 7.4 Billion VND in revenue for Tuoi Trẻ Viet Travel.
 
-* **Doanh thu trung bình tour khám phá đứng đầu**: Doanh thu trung bình của một tour khám phá tại Tuổi Trẻ Việt Travel ghi nhận đứng đầu với 8.5 triệu VND một chuyến, tiếp theo sau là tour gia đình (7.4 triệu VND) và tour biển (7.1 triệu VND)
+* **Adventure tours with the highest average revenue**: Adventure tours recorded the highest average revenue at 8.5 million VND per trip, followed closely by amily tours (7.4 million VND) and each tours (7.1 million VND).
   
 
 <div align="center">
 <h1><img width="450" height="230" alt="Image" src="https://github.com/user-attachments/assets/02d26f68-4945-4b37-b365-09f734033228" />
 </div>
 
-* **Các địa điểm du lịch lớn đóng góp doanh thu cao nhất**: Các tour du lịch đi các địa điểm giáp biển như **Phú Quốc** (3.1 tỷ VND), **Đà Nẵng** (3 tỷ VND), **Nha Trang** (2.8 tỷ VND) và **Hạ Long** (2.6 tỷ) ghi nhận doanh thu lớn nhất.
-
-* **Địa điểm văn hóa thu hút khách du lịch**: Bên cạnh các tour du lịch đến các địa điểm giáp biển, các tour đi các địa điểm văn hóa như **Tp Hồ Chí Minh** (2.3 tỷ VND), **Hội An** (2.3 tỷ VND) và **Đà Lạt** (2.1 Tỷ VND) cũng đóng góp doanh thu trên 2 tỷ VND cho công ty.
+* **Coastal destination contribute highest revenue**: Tours to coastal destinations, including Phu Quoc (3.1 billion VND), Da Nang (3 billion VND), Nha Trang (2.8 billion VND), and Ha Long (2.6 billion VND), recorded the highest revenue.
+  
+* **Cultural destinations attracting tourists**: In addition, tours to cultural sites such as Ho Chi Minh City (2.3 billion VND), Hoi An (2.3 billion VND), and Da Lat (2.1 billion VND) also contributed over 2 billion VND each to the company's total revenue.
 
  
  3. Target customers
@@ -86,7 +87,7 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 <img width="410" height="203" alt="Image" src="https://github.com/user-attachments/assets/bf9290d4-9b95-49ba-986c-37fe327efdbe" /><h1>
 </div>
 
-* **Gia đình và người đi làm là đối tượng khách hàng chính**: Số lượng tour được đặt bởi khách hàng là gia đình và người đi làm chiếm số lượng nhiều nhất (5.5k tour và 4.9k tour). Đây cũng là hai đối tượng ghi nhận doanh thu cao nhất (8.1 tỷ VND và 7.4 tỷ VND).
+* **Families and Young professionals are the primary customer segments**: Tour bookings from families and young professionals accounted for the highest volume (5.5k and 4.9k tours, respectively). These two segments also generated the highest revenue, contributing 8.1 billion VND and 7.4 billion VND.
 
   
 <div align="center">
