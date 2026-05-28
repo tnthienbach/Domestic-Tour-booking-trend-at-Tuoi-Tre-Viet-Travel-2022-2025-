@@ -10,7 +10,7 @@
 
  I. Background
 
-Founded in 2011 in Da Nang City, Tuổi Trẻ Việt Travel specialized in providing domestic tours to tourist destinations across Viet Nam. In its inception, the company provide tour to destinations such as Hoi An, Da Nang City, and Hue. Since 2022, the company expanded its operations to include tours to destinations such as Phu Quoc, Ho Chi Minh City, Nha Trang, Da Lat, Ha Noi, Ha Long, and Sapa.
+Founded in 2011 in Da Nang City, Tuoi Tre Viet Travel specialized in providing domestic tours to tourist destinations across Viet Nam. In its inception, the company provide tour to destinations such as Hoi An, Da Nang City, and Hue. Since 2022, the company expanded its operations to include tours to destinations such as Phu Quoc, Ho Chi Minh City, Nha Trang, Da Lat, Ha Noi, Ha Long, and Sapa.
 
 This report focus on analyzing trends regarding domestic tour services at Tuoi Tre Viet Travel, including peak periods, tourism product và customer segments. Based on the findings, the report wil provide suggestions to improve the quality of sales, product and service experience.
 
@@ -66,7 +66,7 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
   <img width="380" height="184" alt="Image" src="https://github.com/user-attachments/assets/4f7b7747-433f-48ec-bf5e-9f97f648e2dd" /><h1>
 </div>
 
-* **Beach tours with the highest in total revenue**: Beach tours contributes 7.4 Billion VND in revenue for Tuoi Trẻ Viet Travel.
+* **Beach tours with the highest in total revenue**: Beach tours contributes 7.4 Billion VND in revenue for Tuoi Tre Viet Travel.
 
 * **Adventure tours with the highest average revenue**: Adventure tours recorded the highest average revenue at 8.5 million VND per trip, followed closely by amily tours (7.4 million VND) and each tours (7.1 million VND).
   
@@ -132,8 +132,7 @@ This report focus on analyzing trends regarding domestic tour services at Tuoi T
 
  IV. Solutions
 
-Sau đây là những đề xuất giải pháp nhằm nâng cao chất lượng bán hàng, sản phẩm và dịch vụ, đồng thời cải thiện cơ sở dữ liệu.
-
+Here are some suggestions on improving sales, products, and service experience at Tuoi Tre Viet Travel.
  * Sales
 
 _ **Targeting the solo traveler segment**: Design targeted "Flash Sale" discounts or cost-effective "Group tour" packages tailored for this segment to optimize tour capacity without affecting brand value.
